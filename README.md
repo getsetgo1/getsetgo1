@@ -23,8 +23,4 @@ Here are some ideas to get you started:
     height="200"
   />
 </a>
-  
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/getsetgo1"/>
-</a>
