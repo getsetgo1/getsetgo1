@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/getsetgo1?pet-id=605805166640859551"
-    width="450"
-    height="200"
-  />
+<img
+  src="https://render.gitanimals.org/farms/getsetgo1"
+  width="600"
+  height="300"
+/>
 </a>
-
